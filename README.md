@@ -1,2 +1,2 @@
-# Comp-1210
-All of my projects and activities from Comp-1210
+# comp-1210
+All of my projects and activities from comp-1210
